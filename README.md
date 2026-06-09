@@ -11,7 +11,7 @@ Me chamo Renatiel Gadelha, tenho 19 anos e sou natural de Pernambuco. Atualmente
 #
 
 <div align="right"
-img src= width="0px" /
+img src=https://github.com/Renatiel/Renatiel/issues/1#issue-4621969516 width="0px" /
 /div>
 
 <h3 align="left">Connect with me!</h3>
