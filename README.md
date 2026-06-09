@@ -9,9 +9,12 @@
 Me chamo Renatiel Gadelha, tenho 19 anos e sou natural de Pernambuco. Atualmente curso Análise e Desenvolvimento de Sistemas, Ciência da Computação.
  
 #
+</span>
 
+https://github.com/Renatiel/Renatiel/issues/1#issue-4621969516
+  
 <div align="right"
-img src=https://github.com/Renatiel/Renatiel/issues/1#issue-4621969516 width="0px" /
+img src=https://github.com/Renatiel/Renatiel/issues/1#issue-4621969516 width="190px" /
 /div>
 
 <h3 align="left">Connect with me!</h3>
@@ -21,7 +24,7 @@ img src=https://github.com/Renatiel/Renatiel/issues/1#issue-4621969516 width="0p
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/renatielgadelha/)
 
 
-h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack ~</h3>
 
 <img 
     align="left" 
