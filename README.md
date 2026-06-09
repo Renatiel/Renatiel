@@ -10,9 +10,9 @@ Me chamo Renatiel Gadelha, tenho 19 anos e sou natural de Pernambuco. Atualmente
  
 #
 
-div align="center"
-img src="https://desblogada.files.wordpress.co..." width="0px" /
-/div
+<div align="right"
+img src= width="0px" /
+/div>
 
 <h3 align="left">Connect with me!</h3>
 
