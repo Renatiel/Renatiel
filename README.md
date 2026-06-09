@@ -19,7 +19,7 @@ Me chamo Renatiel Gadelha, tenho 19 anos e sou natural de Pernambuco. Atualmente
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/renatielgadelha/)
 
 
-<h3 align="left">My Stack ~</h3>
+h3 align="left">My Stack ~</h3>
 
 <img 
     align="left" 
@@ -105,7 +105,7 @@ Me chamo Renatiel Gadelha, tenho 19 anos e sou natural de Pernambuco. Atualmente
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatiel/renatieç/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renatiel/renatiel/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renatiel/renatiel/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
 </picture>
