@@ -56,14 +56,6 @@ Studying to become a data engineer.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
 <br/>
 <br/>
 
@@ -75,7 +67,7 @@ Studying to become a data engineer.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=renatiel&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
 
 <img 
