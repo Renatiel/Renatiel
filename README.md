@@ -6,8 +6,9 @@
 
 #
 
-Me chamo Renatiel Gadelha, tenho 19 anos e sou natural de Pernambuco. Atualmente curso Análise e Desenvolvimento de Sistemas, Ciência da Computação.
- 
+My name is Renatiel Gadelha, I'm 19 years old, and I'm from Pernambuco. I'm currently studying Systems Analysis and Development, Computer Science.  
+Studying to become a data engineer.
+
 #
 </span>
 
