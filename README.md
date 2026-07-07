@@ -9,7 +9,7 @@
 
 I'm 19 years old, from Pernambuco, Brazil, and I'm currently studying **Systems Analysis and Development** and **Computer Science**.
 
-I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm currently taking in-depth courses in **Azure** and **AWS** to strengthen my cloud skills.
+I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm currently taking in-depth courses in **Azure**, **AWS**, and **Oracle Database** to strengthen my cloud and database skills.
 
 ---
 
@@ -24,7 +24,7 @@ I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm 
 ### Cloud & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws" alt="Azure, AWS" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,oracle" alt="Azure, AWS, Oracle" />
 </p>
 
 ---
