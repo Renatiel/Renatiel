@@ -45,4 +45,4 @@ I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm 
 ## 📬 Contact
 
 - 📧 rgfl@cin.ufpe.br
-- 📧 renatielgadelha@gmail.co
+- 📧 renatielgadelha@gmail.com
