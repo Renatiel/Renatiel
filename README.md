@@ -1,86 +1,48 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<h1 align="center">Renatiel Gadelha</h1>
 
-#
+<h3 align="center">Systems Analysis and Development Student | Computer Science</h3>
+<p align="center">Pernambuco, Brazil | 19 years old</p>
 
-My name is Renatiel Gadelha, I'm 19 years old, and I'm from Pernambuco. I'm currently studying Systems Analysis and Development, Computer Science.  
-Studying to become a data engineer.
+---
 
-#
-</span>
+## 🚀 About Me
 
+I'm 19 years old, from Pernambuco, Brazil, and I'm currently studying **Systems Analysis and Development** and **Computer Science**.
 
-  
+I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm currently taking in-depth courses in **Azure** and **AWS** to strengthen my cloud skills.
 
+---
 
-<h3 align="left">Connect with me!</h3>
+## 🛠️ Tech Stack
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:renatielv1000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/renatiel-gadelha-051953354/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/renatielgadelha/)
+### Languages
 
-
-<h3 align="left">My Stack ~</h3>
-
-/>
-
-/>
-
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-<h3 align="left">GitHub Stats</h3>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=renatiel&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=renatiel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python, SQL" />
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatiel/renatiel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renatiel/renatiel/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renatiel/renatiel/output/github-contribution-grid-snake.svg">
-</picture>
+### Cloud & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws" alt="Azure, AWS" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/renatielgadelha" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/renatielgadelha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📬 Contact
+
+- 📧 rgfl@cin.ufpe.br
+- 📧 renatielgadelha@gmail.com
