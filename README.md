@@ -24,10 +24,7 @@ I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm 
 ### Cloud & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws" alt="Azure, AWS" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,oracle" alt="Azure, AWS, Oracle" />
 </p>
 
 ---
