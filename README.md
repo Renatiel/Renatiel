@@ -30,7 +30,7 @@ I'm working toward becoming a **Data Engineer**, **data analyst** and **Data Sci
 ### Tools & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,aws" alt="Git, GitHub, Azure, AWS" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
 </p>
 
 ---
