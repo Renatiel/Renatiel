@@ -27,6 +27,12 @@ I'm working toward becoming a **Data Engineer**, **data analyst** and **Data Sci
   <img src="https://skillicons.dev/icons?i=azure,aws" alt="Azure, AWS" />
 </p>
 
+### Tools & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,azure,aws" alt="Git, GitHub, Azure, AWS" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
