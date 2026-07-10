@@ -41,7 +41,7 @@ I'm working toward becoming a **Data Engineer**, **data analyst** and **Data Sci
   <a href="https://instagram.com/renatielgadelha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/renatielgadelha" target="_blank">
+  <a href="https://www.linkedin.com/in/renatiel-gadelha-051953354/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
