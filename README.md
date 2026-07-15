@@ -34,13 +34,13 @@ I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm 
 ### Full Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, JavaScript" />
 </p>
 
 ### Tools & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,aws" alt="Git, GitHub, Azure, AWS" />
+  <img src="https://skillicons.dev/icons?i=git,github,azure,aws" alt="Git, GitHub" />
 </p>
 
 ---
