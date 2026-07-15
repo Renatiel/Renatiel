@@ -1,15 +1,15 @@
 <h1 align="center">Renatiel Gadelha</h1>
 
-<h3 align="center">Systems Analysis and Development Student | Computer Science</h3>
+<h3 align="center">Information System | Systems Analysis and Development Student | Computer Science</h3>
 <p align="center">Pernambuco, Brazil | 19 years old</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm 19 years old, from Pernambuco, Brazil, and I'm currently studying **Systems Analysis and Development** and **Computer Science**.
+I'm 19 years old, from Pernambuco, Brazil, and I'm currently studying **Information System**, **Systems Analysis and Development** and **Computer Science**.
 
-I'm working toward becoming a **Data Engineer** and **Data Scientist**,
+I'm working toward becoming a **Data Engineer**, **Data Scientist** and **full-stack developer**
 
 ---
 
