@@ -28,6 +28,7 @@ I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm 
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
 </p>
 
 ### Full Stack
