@@ -1,15 +1,15 @@
 <h1 align="center">Renatiel Gadelha</h1>
 
-<h3 align="center">Information System | Systems Analysis and Development Student | Computer Science</h3>
+<h3 align="center">Systems Analysis and Development Student | Computer Science</h3>
 <p align="center">Pernambuco, Brazil | 19 years old</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm 19 years old, from Pernambuco, Brazil, and I'm currently studying **Information System**, **Systems Analysis and Development** and **Computer Science**.
+I'm 19 years old, from Pernambuco, Brazil, and I'm currently studying **Systems Analysis and Development** and **Computer Science**.
 
-I'm working toward becoming a **Data Engineer**, **data analyst** and **Data Scientist**, and I'm currently taking in-depth courses in **Azure** and **AWS** to strengthen my cloud skills.
+I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm currently taking in-depth courses in **Azure**, **AWS**, and **Oracle Database** to strengthen my cloud and database skills.
 
 ---
 
@@ -18,7 +18,7 @@ I'm working toward becoming a **Data Engineer**, **data analyst** and **Data Sci
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python, SQL" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" alt="Python, C, SQL" />
 </p>
 
 ### Cloud & Data
@@ -26,11 +26,20 @@ I'm working toward becoming a **Data Engineer**, **data analyst** and **Data Sci
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,aws" alt="Azure, AWS" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
+</p>
+
+### Full Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TypeScript" />
+</p>
 
 ### Tools & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=git,github,azure,aws" alt="Git, GitHub, Azure, AWS" />
 </p>
 
 ---
@@ -41,7 +50,7 @@ I'm working toward becoming a **Data Engineer**, **data analyst** and **Data Sci
   <a href="https://instagram.com/renatielgadelha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/renatiel-gadelha-051953354/" target="_blank">
+  <a href="https://linkedin.com/in/renatielgadelha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
