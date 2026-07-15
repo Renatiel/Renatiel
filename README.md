@@ -18,7 +18,7 @@ I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql" alt="Python, C, SQL" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,html,css,js" alt="Python, C, SQL, HTML, CSS, JavaScript" />
 </p>
 
 ### Cloud & Data
@@ -29,12 +29,6 @@ I'm working toward becoming a **Data Engineer** and **Data Scientist**, and I'm 
 <p align="left">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
   <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
-</p>
-
-### Full Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
 </p>
 
 ### Tools & Infrastructure
